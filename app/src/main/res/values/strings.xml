@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MvvmExample</string>
+    <string name="show_error">! Alert - connection problem</string>
+    <string name="textview">Show Error</string>
+    <string name="todo">TODO</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="release_date">Release Date:</string>
+    <string name="_2019">2019</string>
+    <string name="rating">Rating:</string>
+    <string name="_10">10</string>
+    <string name="runtime">Runtime:</string>
+    <string name="_2_3_hrs">2.3 hrs</string>
+    <string name="budget">Budget:</string>
+    <string name="_130_00_000">130,00,000</string>
+    <string name="review">Review:</string>
+    <string name="overview">Overview:</string>
+
+    <string name="overview_test">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus quidem vitae commodi neque veniam. Qui ipsa totam iste enim aperiam nostrum dolore autem mollitia odit.</string>
+    <string name="show_movie_details">Show Movie Details</string>
+
+</resources>
